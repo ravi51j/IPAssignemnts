@@ -1,4 +1,8 @@
 Hello
 Changes 
 Ravi
+<<<<<<< Updated upstream
 feature1
+=======
+Feature1
+>>>>>>> Stashed changes
